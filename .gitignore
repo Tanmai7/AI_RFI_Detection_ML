@@ -1,0 +1,8 @@
+# Ignore datasets
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
